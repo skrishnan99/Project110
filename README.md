@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/skrishnan99/110travis.svg?branch=master)](https://travis-ci.org/skrishnan99/110travis)
+[![Build Status](https://travis-ci.com/skrishnan99/Project110.svg?branch=master)](https://travis-ci.com/skrishnan99/Project110)
